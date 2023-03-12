@@ -1,0 +1,7 @@
+D:\WorkSpace\C#\project\FaceRegconition\FaceRegconition\obj\Debug\net7.0-windows\FaceRegconition.csproj.AssemblyReference.cache
+D:\WorkSpace\C#\project\FaceRegconition\FaceRegconition\obj\Debug\net7.0-windows\FaceRegconition.Form1.resources
+D:\WorkSpace\C#\project\FaceRegconition\FaceRegconition\obj\Debug\net7.0-windows\FaceRegconition.csproj.GenerateResource.cache
+D:\WorkSpace\C#\project\FaceRegconition\FaceRegconition\obj\Debug\net7.0-windows\FaceRegconition.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#\project\FaceRegconition\FaceRegconition\obj\Debug\net7.0-windows\FaceRegconition.AssemblyInfoInputs.cache
+D:\WorkSpace\C#\project\FaceRegconition\FaceRegconition\obj\Debug\net7.0-windows\FaceRegconition.AssemblyInfo.cs
+D:\WorkSpace\C#\project\FaceRegconition\FaceRegconition\obj\Debug\net7.0-windows\FaceRegconition.csproj.CoreCompileInputs.cache

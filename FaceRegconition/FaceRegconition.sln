@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceRegconition", "FaceRegconition.csproj", "{14EE87AC-E8E5-49AA-9B68-B78526BE3265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14EE87AC-E8E5-49AA-9B68-B78526BE3265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14EE87AC-E8E5-49AA-9B68-B78526BE3265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14EE87AC-E8E5-49AA-9B68-B78526BE3265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14EE87AC-E8E5-49AA-9B68-B78526BE3265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F15D23-C027-4E34-8316-4DF4A147DEA0}
+	EndGlobalSection
+EndGlobal
